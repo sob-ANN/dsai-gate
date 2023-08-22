@@ -137,6 +137,18 @@ This repository is a collaborative effort, and we welcome contributions from the
 For any questions or clarifications, feel free to [reach out](link_to_contact)!
 
 Join our [GitHub Discussions](link_to_discussions) for real-time interactions with fellow contributors.
+---
+
+### Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
 
