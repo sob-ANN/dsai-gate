@@ -151,7 +151,14 @@ Join our [Discord Server](link_to_discord) for real-time interactions with fello
         <a href=https://github.com/Kunaldargan>
             <img src=https://avatars.githubusercontent.com/u/12375180?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Kunal Dargan IIT D/>
             <br />
-            <sub style="font-size:14px"><b>🧑‍🏫 KUNAL DARGAN (IIT Delhi) 💻 </b></sub>
+            <sub style="font-size:14px"><b>🧑‍🏫 Kunal Dargan (IIT Delhi) 💻 </b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/SarveshVGharat>
+            <img src=https://avatars.githubusercontent.com/u/89913681?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Kunal Dargan IIT D/>
+            <br />
+            <sub style="font-size:14px"><b>🧑‍🏫  Sarvesh Gharat (IIT Bombay) 💻 </b></sub>
         </a>
     </td>
 </tr>
