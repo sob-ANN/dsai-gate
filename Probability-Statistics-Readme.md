@@ -10,8 +10,8 @@
 
 ### The only Probability and Statistics cheatsheet that you''ll ever need
 
-[<img src="Probability-Statistics/stat_cheatsheet.png">](http://www.wzchen.com/probability-cheatsheet)
-> [Download Full Pdf](/Probability-Statistics/probability_cheatsheet.pdf)
+[<img src="Data/Probability-Statistics/stat_cheatsheet.png">](http://www.wzchen.com/probability-cheatsheet)
+> [Download Full Pdf](Data/Probability-Statistics/probability_cheatsheet.pdf)
  
 Credits : Joe Blitzstein [stat110](https://twitter.com/stat110) - Professor of Statistics at Harvard, Instructor of [Harvard's Stat 110 course](https://projects.iq.harvard.edu/stat110/) (Probability).
 
