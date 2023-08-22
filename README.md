@@ -128,7 +128,7 @@ This repository is a collaborative effort, and we welcome contributions from the
 
 For any questions or clarifications, feel free to [reach out](link_to_contact)!
 
-Join our [GitHub Discussions](link_to_discussions) for real-time interactions with fellow contributors.
+Join our [Discord Discussions](link_to_discord) for real-time interactions with fellow contributors.
 ---
 ### Contributors
 <table>
