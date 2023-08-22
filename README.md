@@ -1,8 +1,8 @@
 # Welcome to the DSAI-GATE Repository [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) :robot: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/yashgyy/dsai-gate.svg?style=social&label=Watch)](https://github.com/yashgyy/dsai-gate/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/yashgyy/dsai-gate.svg?style=social&label=Fork)](https://GitHub.com/yashgyy/dsai-gate/network/)
-[![GitHub stars](https://img.shields.io/github/stars/yashgyy/dsai-gate.svg?style=social&label=Star)](https://GitHub.com/yashgyy/dsai-gate/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Watch)](https://github.com/DS-AI-GATE/dsai-gate/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/DS-AI-GATE/dsai-gate.svg?style=social&label=Fork)](https://GitHub.com/DS-AI-GATE/dsai-gate/network/)
+[![GitHub stars](https://img.shields.io/github/stars/DS-AI-GATE/dsai-gate.svg?style=social&label=Star)](https://GitHub.com/DS-AI-GATE/dsai-gate/stargazers/)
 
 
 <!---
@@ -50,50 +50,42 @@ To ensure a smooth and efficient learning experience, we've structured the repos
     <th class="tg-yw4l"><b>Topic</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Resouces</b></th>
-    <th class="tg-yw4l"><b>Contributors</b></th>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#probability-and-statistics">Probability and Statistics</td>
     <td class="tg-yw4l">Probability fundamentals, counting methods, key concepts in hypothesis testing</td>
     <td class="tg-yw4l"><a href="Probability-Statistics-Readme.md">Prob-Stats</a></td>
-    <td class="tg-yw4l">Your Name</td>
   </tr>
 
    <tr>
     <td class="tg-yw4l"><a href="#linear-algebra">Linear Algebra</td>
     <td class="tg-yw4l"> Detailed coverage on vector spaces, matrices, eigenvalues, Singular Value Decomposition(SVD) </td>
     <td class="tg-yw4l"><a href="Linear-Algebra-Readme.md">Linear-Alg</a></td>
-    <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#calculus-and-optimization">Calculus and Optimization</td>
     <td class="tg-yw4l">Exploring single-variable functions, limits, optimization techniques, and more</td>
     <td class="tg-yw4l"><a href="Calculus-and-Optimization-Readme.md">Calculus-Opt</a></td>
-    <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#programming-and-algorithms">Programming and Algorithms</td>
     <td class="tg-yw4l">Comprehensive coverage of Python programming, data structures, and algorithms.</td>
     <td class="tg-yw4l"><a href="Programming-and-Algorithms-Readme.md">Prog-Algo</a></td>
-    <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#database-management">Database Management</td>
     <td class="tg-yw4l">ER-models, relational algebra, SQL, normalization</td>
     <td class="tg-yw4l"><a href="Database-Management-Readme.md">DBMS</a></td>
-    <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#machine-learning">Machine Learning</td>
     <td class="tg-yw4l">Extensive explanations and hands-on examples of supervised and unsupervised learning algorithms.</td>
     <td class="tg-yw4l"><a href="Machine-Learning-Readme.md">ML-Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#AI">Artificial Intelligence</td>
     <td class="tg-yw4l">In-depth discussions on search algorithms, logic, reasoning, and uncertainty.</td>
     <td class="tg-yw4l"><a href="Artificial-Intelligence-Readme.md">AI-Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
   </tr>
 
   <!-- More rows for different topics -->
@@ -143,9 +135,23 @@ Join our [GitHub Discussions](link_to_discussions) for real-time interactions wi
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/DS-AI-GATE>
-            <img src=https://avatars.githubusercontent.com/u/44333669?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=DS-AI-Gate/>
+            <img src=https://avatars.githubusercontent.com/u/142782251?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=DS-AI-Gate/>
             <br />
-            <sub style="font-size:14px"><b>DS-AI-Gate</b></sub>
+            <sub style="font-size:14px"><b>🧑‍🏫 DS-AI-Gate (Project) 💻 </b></sub>
+        </a>
+    </td>
+     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://www.linkedin.com/in/yashsinghaldev/>
+            <img src=https://avatars.githubusercontent.com/u/14790911?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=DS-AI-Gate/>
+            <br />
+            <sub style="font-size:14px"><b>🧑‍🏫 Yash Singhal (IIT Roorkee) 💻 </b></sub>
+        </a>
+    </td>
+     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Kunaldargan>
+            <img src=https://avatars.githubusercontent.com/u/12375180?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Kunal Dargan IIT D/>
+            <br />
+            <sub style="font-size:14px"><b>🧑‍🏫 KUNAL DARGAN (IIT Delhi) 💻 </b></sub>
         </a>
     </td>
 </tr>
