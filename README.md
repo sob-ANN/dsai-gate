@@ -138,17 +138,18 @@ For any questions or clarifications, feel free to [reach out](link_to_contact)!
 
 Join our [GitHub Discussions](link_to_discussions) for real-time interactions with fellow contributors.
 ---
-
 ### Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/DS-AI-GATE>
+            <img src=https://avatars.githubusercontent.com/u/44333669?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=DS-AI-Gate/>
+            <br />
+            <sub style="font-size:14px"><b>DS-AI-Gate</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
 
 ---
 
