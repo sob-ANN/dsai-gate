@@ -166,8 +166,7 @@ Let's make DSAI preparation an enriching and collaborative journey together! ðŸš
 
 Stay connected with us for updates, announcements, and discussions:
 
-- Join our [Gitter community](link_to_gitter) for real-time discussions.
-- Follow us on [Twitter](link_to_twitter) for the latest news and announcements.
+- Join our [Discord server](link_to_discord) for real-time discussions.
 
 
 <!---
