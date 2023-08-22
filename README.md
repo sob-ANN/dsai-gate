@@ -126,7 +126,7 @@ This repository is a collaborative effort, and we welcome contributions from the
 3. If your content is ready, submit a pull request or open an issue to indicate your contribution.
 4. Collaborate with the community to enhance and refine the content.
 
-For any questions or clarifications, feel free to [reach out](link_to_contact)!
+For any questions or clarifications, feel free to [reach out](https://github.com/DS-AI-GATE/dsai-gate/issues/3)!
 
 Join our [Discord Server](link_to_discord) for real-time interactions with fellow contributors.
 ---
