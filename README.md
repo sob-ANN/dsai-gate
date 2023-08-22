@@ -2,7 +2,7 @@
 
 
 [![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Watch)](https://github.com/DS-AI-GATE/dsai-gate/watchers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Fork)](https://github.com/DS-AI-GATE/dsai-gate/network/)
+[![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Fork)](https://github.com/DS-AI-GATE/dsai-gate/forks/)
 [![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Star)](https://github.com/DS-AI-GATE/dsai-gate/stargazers/)
 
 <!---
