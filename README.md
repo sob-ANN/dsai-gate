@@ -128,7 +128,7 @@ This repository is a collaborative effort, and we welcome contributions from the
 
 For any questions or clarifications, feel free to [reach out](https://github.com/DS-AI-GATE/dsai-gate/issues/3)!
 
-Join our [Discord Server](link_to_discord) for real-time interactions with fellow contributors.
+Join our [Discord Server](https://discord.com/invite/N5Wgn9ygDF) for real-time interactions with fellow contributors.
 ---
 ### Contributors
 <table>
@@ -173,7 +173,7 @@ Let's make DSAI preparation an enriching and collaborative journey together! ðŸš
 
 Stay connected with us for updates, announcements, and discussions:
 
-- Join our [Discord server](link_to_discord) for real-time discussions.
+- Join our [Discord server](https://discord.com/invite/N5Wgn9ygDF) for real-time discussions.
 
 
 <!---
