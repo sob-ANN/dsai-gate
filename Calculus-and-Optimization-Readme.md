@@ -10,7 +10,7 @@
 
 ### Quick overview
 
-<img src="Data/Calculus-and-Optimization/Calculus.png">
+<img src="Data/Calculus-and-Optimization/Calculus.png">(calculus_cheat_sheet_all.pdf)
 [Download Full Pdf](Data/Calculus-and-Optimization/calculus_cheat_sheet_all.pdf)
 
 ---
