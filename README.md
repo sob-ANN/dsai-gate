@@ -1,8 +1,5 @@
 # Welcome to the DSAI-GATE Repository [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) :robot: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Watch)](https://github.com/DS-AI-GATE/dsai-gate/watchers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Fork)](https://github.com/DS-AI-GATE/dsai-gate/forks/)
-[![GitHub watchers](https://img.shields.io/github/watchers/DS-AI-GATE/dsai-gate.svg?style=social&label=Star)](https://github.com/DS-AI-GATE/dsai-gate/stargazers/)
 
 
 > ## We are still in work in progress phase, Stay tuned !!
