@@ -33,6 +33,10 @@ Explore these recommended books to enhance your understanding of Probability and
 
 Course to deepen your knowledge of Probability and Statistics:
 
+- [**"IITM NPTEL Course: Data Science for Engineers"**](https://www.youtube.com/watch?v=LpamajnMpZY&ab_channel=NPTEL-NOCIITM)  Single Variablle Optimization for Data Science
+- [**" NPTEL Course:Optimization for Machine Learning"**](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-pmLzCoMu_ANU6atEFyyJl) Optimisation for Machine Learning: Theory and Implementation (Hindi)
+
+
 ---
 
 ## <a name="notes"></a>Notes
