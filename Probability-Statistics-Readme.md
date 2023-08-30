@@ -69,7 +69,7 @@ Review these comprehensive notes to reinforce your grasp of Probability and Stat
   From COL774: Machine Learning (IIT D) by Prof. [Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html)
 
 ---
-## <a name="concept-visualisation"</a>Concept Visualisation
+## <a name="concept-visualisation"></a>Concept Visualisation
 For the visual learners:
 - **[Central Limit Theorem : 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&si=w_JVqrbbRgNmj3vF)**
   Why and how of the "Central Limit Theorem" through intuition and visualisation.
