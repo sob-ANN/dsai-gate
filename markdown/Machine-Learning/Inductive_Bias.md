@@ -2,11 +2,17 @@
 
 ## Introduction
 
-In the machine learning paradigm, the common objective is to generalize over unseen data, i.e. achieving a low error rate over test data "related-to" the training data, is desirable (Mitchel, 1980). When working with datasets, there can be multiple models that fit the training data well; the challenge is how to select the most appropriate model.
+**In the machine learning paradigm, the common objective is to generalize over unseen data, i.e. achieving a low error rate over test data "related-to" the training data, is desirable (Mitchel, 1980).**\
+ When working with datasets, there can be multiple models that fit the training data well; the challenge is how to select the most appropriate model.
 
-For instance, consider selecting any two points on the Cartesian plane, which uniquely determine a line passing through them. If there are no restrictions on the hypothesis function being linear, an infinite number of higher-order polynomials could pass through those points. **Inductive Bias** refers to assumptions made 'a priori' about the relationship between inputs and outputs, guiding the selection of one form of generalization over another. The constraints placed on the hypothesis space are termed inductive bias.
+For instance, consider selecting any two points on the Cartesian plane, which uniquely determine a line passing through them. If there are no restrictions on the hypothesis function being linear, an infinite number of higher-order polynomials could pass through those points.\
+\
+**Inductive Bias** refers to assumptions made 'a priori' about the relationship between inputs and outputs, guiding the selection of one form of generalization over another. The constraints placed on the hypothesis space are termed inductive bias.
 
-![Multiple hypothesis functions showing fit over the datasets: sin function in blue, ridge regression in green, and average in red. Data generated using a sinusoidal function.](image-link-here)
+![Multiple hypothesis functions showing fit over the datasets: sin function in blue, ridge regression in green, and average in red. Data generated using a sinusoidal function.](/Data/Machine-Learning/inductive_bias_multiple_hypothesis_functions.png)
+
+**Multiple hypothesis functions showing fit over the datasets: sin function in blue, ridge regression in green, and average in red.** <br /> 
+**Data generated using a sinusoidal function.**
 
 Researchers have demonstrated that inductive bias imposes limitations on the choice of hypothesis space to be learned, reflecting prior knowledge about the task at hand. This restriction is essential for practical learning to occur. Domain experts, drawing on their prior task knowledge, suggest models that may fit the data well. For example, a biochemist might understand the linear relationship inherent in biological processes and thus propose a linear regression model. Further insights can be gained by delving into the concept of 'Causality'.
 
