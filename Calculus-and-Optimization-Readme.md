@@ -55,6 +55,9 @@ Review these comprehensive notes to reinforce your grasp of Probability and Stat
 
 Read insightful articles on Probability and Statistics to gain additional insights:
 
+[**"Khan academy calculus"**](https://www.khanacademy.org/math/calculus-all-old) 
+  A comprehensive resource for calculus theory and its applications.
+  
 ---
 
 ## <a name="practice-problems"></a>Practice Problems
